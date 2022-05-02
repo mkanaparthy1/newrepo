@@ -1,7 +1,6 @@
 public class TravelDistance {
     private static final String ERR_MSG = "Invalid input!";
 
-   aram n the distance (in feet) to reach
      
     public static int calculateWays(int n) throws Exception {
 
